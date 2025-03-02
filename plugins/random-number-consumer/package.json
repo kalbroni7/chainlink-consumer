@@ -52,6 +52,6 @@
     "hardhat": "^2.0.0"
   },
   "dependencies": {
-    "@ethersproject/providers": "^5.4.3"
+    "@ethersproject/providers": "^5.8.0"
   }
 }
